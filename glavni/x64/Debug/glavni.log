@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\WINPRO\source\repos\glavni\main.c(104,28): warning C4047: 'function': 'int' differs in levels of indirection from 'Igrac *'
+C:\Users\WINPRO\source\repos\glavni\main.c(104,28): warning C4024: 'pretraziOkladu': different types for formal and actual parameter 1
+  rulet.c
+C:\Users\WINPRO\source\repos\glavni\rulet.c(20,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\WINPRO\source\repos\glavni\rulet.c(94,9): warning C4026: function declared with formal parameter list
+C:\Users\WINPRO\source\repos\glavni\rulet.c(101,9): warning C4013: 'ocistiUnosniBuffer' undefined; assuming extern returning int
+C:\Users\WINPRO\source\repos\glavni\rulet.c(102,9): warning C4033: 'pretraziOkladu' must return a value
+  Generating Code...
+C:\Users\WINPRO\source\repos\glavni\rulet.c(112,1): warning C4716: 'pretraziOkladu': must return a value
+  glavni.vcxproj -> C:\Users\WINPRO\source\repos\glavni\x64\Debug\glavni.exe
